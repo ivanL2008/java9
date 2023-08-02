@@ -1,0 +1,122 @@
+[
+    {
+        "merged": "C:\\Users\\Ivan\\.gradle\\daemon\\7.5\\com.example.java9.app-merged_res-29:\\mipmap-anydpi-v33_ic_launcher.xml.flat",
+        "source": "C:\\Users\\Ivan\\.gradle\\daemon\\7.5\\com.example.java9.app-main-31:\\mipmap-anydpi-v33\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ivan\\.gradle\\daemon\\7.5\\com.example.java9.app-merged_res-29:\\drawable_forest_background.jpg.flat",
+        "source": "C:\\Users\\Ivan\\.gradle\\daemon\\7.5\\com.example.java9.app-main-31:\\drawable\\forest_background.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Ivan\\.gradle\\daemon\\7.5\\com.example.java9.app-merged_res-29:\\drawable_shape_text.xml.flat",
+        "source": "C:\\Users\\Ivan\\.gradle\\daemon\\7.5\\com.example.java9.app-main-31:\\drawable\\shape_text.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ivan\\.gradle\\daemon\\7.5\\com.example.java9.app-merged_res-29:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Ivan\\.gradle\\daemon\\7.5\\com.example.java9.app-main-31:\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Ivan\\.gradle\\daemon\\7.5\\com.example.java9.app-merged_res-29:\\drawable_som.jpg.flat",
+        "source": "C:\\Users\\Ivan\\.gradle\\daemon\\7.5\\com.example.java9.app-main-31:\\drawable\\som.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Ivan\\.gradle\\daemon\\7.5\\com.example.java9.app-merged_res-29:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\Ivan\\.gradle\\daemon\\7.5\\com.example.java9.app-main-31:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ivan\\.gradle\\daemon\\7.5\\com.example.java9.app-merged_res-29:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Ivan\\.gradle\\daemon\\7.5\\com.example.java9.app-main-31:\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Ivan\\.gradle\\daemon\\7.5\\com.example.java9.app-merged_res-29:\\layout_activity_second.xml.flat",
+        "source": "C:\\Users\\Ivan\\.gradle\\daemon\\7.5\\com.example.java9.app-main-31:\\layout\\activity_second.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ivan\\.gradle\\daemon\\7.5\\com.example.java9.app-merged_res-29:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\Ivan\\.gradle\\daemon\\7.5\\com.example.java9.app-main-31:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ivan\\.gradle\\daemon\\7.5\\com.example.java9.app-merged_res-29:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\Ivan\\.gradle\\daemon\\7.5\\com.example.java9.app-main-31:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ivan\\.gradle\\daemon\\7.5\\com.example.java9.app-merged_res-29:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Ivan\\.gradle\\daemon\\7.5\\com.example.java9.app-main-31:\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Ivan\\.gradle\\daemon\\7.5\\com.example.java9.app-merged_res-29:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Ivan\\.gradle\\daemon\\7.5\\com.example.java9.app-main-31:\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Ivan\\.gradle\\daemon\\7.5\\com.example.java9.app-merged_res-29:\\drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\Ivan\\.gradle\\daemon\\7.5\\com.example.java9.app-main-31:\\drawable-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ivan\\.gradle\\daemon\\7.5\\com.example.java9.app-merged_res-29:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Ivan\\.gradle\\daemon\\7.5\\com.example.java9.app-main-31:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Ivan\\.gradle\\daemon\\7.5\\com.example.java9.app-merged_res-29:\\drawable_shape_list.xml.flat",
+        "source": "C:\\Users\\Ivan\\.gradle\\daemon\\7.5\\com.example.java9.app-main-31:\\drawable\\shape_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ivan\\.gradle\\daemon\\7.5\\com.example.java9.app-merged_res-29:\\layout_list_item.xml.flat",
+        "source": "C:\\Users\\Ivan\\.gradle\\daemon\\7.5\\com.example.java9.app-main-31:\\layout\\list_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ivan\\.gradle\\daemon\\7.5\\com.example.java9.app-merged_res-29:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\Ivan\\.gradle\\daemon\\7.5\\com.example.java9.app-main-31:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ivan\\.gradle\\daemon\\7.5\\com.example.java9.app-merged_res-29:\\drawable_shchuka.jpg.flat",
+        "source": "C:\\Users\\Ivan\\.gradle\\daemon\\7.5\\com.example.java9.app-main-31:\\drawable\\shchuka.jpg"
+    },
+    {
+        "merged": "com.example.java9.app-merged_res-29:/layout_list_item.xml.flat",
+        "source": "com.example.java9.app-main-31:/layout/list_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ivan\\.gradle\\daemon\\7.5\\com.example.java9.app-merged_res-29:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Ivan\\.gradle\\daemon\\7.5\\com.example.java9.app-main-31:\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Ivan\\.gradle\\daemon\\7.5\\com.example.java9.app-merged_res-29:\\drawable_okun.jpg.flat",
+        "source": "C:\\Users\\Ivan\\.gradle\\daemon\\7.5\\com.example.java9.app-main-31:\\drawable\\okun.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Ivan\\.gradle\\daemon\\7.5\\com.example.java9.app-merged_res-29:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Ivan\\.gradle\\daemon\\7.5\\com.example.java9.app-main-31:\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Ivan\\.gradle\\daemon\\7.5\\com.example.java9.app-merged_res-29:\\drawable_lesh.jpg.flat",
+        "source": "C:\\Users\\Ivan\\.gradle\\daemon\\7.5\\com.example.java9.app-main-31:\\drawable\\lesh.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Ivan\\.gradle\\daemon\\7.5\\com.example.java9.app-merged_res-29:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Ivan\\.gradle\\daemon\\7.5\\com.example.java9.app-main-31:\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Ivan\\.gradle\\daemon\\7.5\\com.example.java9.app-merged_res-29:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Ivan\\.gradle\\daemon\\7.5\\com.example.java9.app-main-31:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Ivan\\.gradle\\daemon\\7.5\\com.example.java9.app-merged_res-29:\\drawable_carassius.jpg.flat",
+        "source": "C:\\Users\\Ivan\\.gradle\\daemon\\7.5\\com.example.java9.app-main-31:\\drawable\\carassius.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Ivan\\.gradle\\daemon\\7.5\\com.example.java9.app-merged_res-29:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Ivan\\.gradle\\daemon\\7.5\\com.example.java9.app-main-31:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Ivan\\.gradle\\daemon\\7.5\\com.example.java9.app-merged_res-29:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\Ivan\\.gradle\\daemon\\7.5\\com.example.java9.app-main-31:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ivan\\.gradle\\daemon\\7.5\\com.example.java9.app-merged_res-29:\\drawable_logo.png.flat",
+        "source": "C:\\Users\\Ivan\\.gradle\\daemon\\7.5\\com.example.java9.app-main-31:\\drawable\\logo.png"
+    },
+    {
+        "merged": "C:\\Users\\Ivan\\.gradle\\daemon\\7.5\\com.example.java9.app-merged_res-29:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\Ivan\\.gradle\\daemon\\7.5\\com.example.java9.app-main-31:\\xml\\data_extraction_rules.xml"
+    }
+]
